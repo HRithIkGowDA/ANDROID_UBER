@@ -1,7 +1,7 @@
 ### Android Uber Clone
 ---
 
-**Important** - *This application relies on Parse which has since been shut down. PR's welcome from anyone who wants to help get this application working again*
+**Important** - *This application relies on Parse which has since been shut down. PR's welcome from anyone who wants to help get this application working again and THIS IS A PART OF THE PROJECT AND THE COMPLETE PROJECT CAN BE FOUND @hrithikgowda060@gmai.com*
 
 **Description:**
 A simple Android Uber App Clone using Parse. Select whether you are a rider or a driver. Riders can request rides which are show to drivers. Drivers can view the riders locations and select which rider they would like to pick up. Once selected, navigation is started on their phone. 
